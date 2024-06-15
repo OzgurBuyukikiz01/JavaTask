@@ -17,7 +17,7 @@ public class Proje {
         System.out.println("5. Square Root (√)");
         System.out.println("6. Power (^)");
         
-        /*Int değerini kullanıcıdan alarak üstteki hangi operasyonu gerçekleştirmek istediğine bakıyoruz*/
+        //Int değerini kullanıcıdan alarak üstteki hangi operasyonu gerçekleştirmek istediğine bakıyoruz
         
         int operation = scanner.nextInt(); 
         int numberOfInputs = 0;
